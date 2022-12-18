@@ -4,3 +4,5 @@
 ![Mysql 8.0.31](https://img.shields.io/badge/Mysql-8.0.31-blue)
 
 Example of Project using a Spring Boot framework, which contains a CRUD process for doctors and patients.
+
+In this project, there are features like a `Spring Security`, `Auth0 java-jwt` library and `Filters`.
